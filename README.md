@@ -1,3 +1,5 @@
 # docker-dnsmasq
 
-if you want to regist original hosts, then prepare /work/add-hosts file.
+edit:
+/etc/dnsmasq.conf
+/etc/dnsmasq.d/
